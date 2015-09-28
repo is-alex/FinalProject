@@ -16,7 +16,8 @@
 </form>
 
 <textarea rows="30" cols="150" id="messagesTextArea" readonly></textarea>
-
+<br>
+<br>
 <textarea style="color: darkblue; background-color: whitesmoke; font-weight: bold"
           rows="3" cols="150" id="infoArea" readonly>
 </textarea>
